@@ -30,3 +30,4 @@ internal class Program
         Part2();
     }
 }
+
